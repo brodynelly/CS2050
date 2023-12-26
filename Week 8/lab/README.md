@@ -9,8 +9,6 @@ This README provides an overview of a set of functions designed for implementing
 3. [Function Descriptions](#function-descriptions)
 4. [Example](#example)
 5. [Memory Management](#memory-management)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
