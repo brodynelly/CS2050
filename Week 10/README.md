@@ -9,8 +9,6 @@ This README provides an overview of the code and functions implemented for a Bin
 3. [Function Descriptions](#function-descriptions)
 4. [Example](#example)
 5. [Memory Management](#memory-management)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -91,3 +89,8 @@ int main() {
 
     return 0;
 }
+```
+
+## Memory Management
+
+The code includes functions for proper memory management to prevent memory leaks. It is essential to call freeBST(tree) when you are done using the BST to release all allocated memory.
